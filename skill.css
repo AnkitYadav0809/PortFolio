@@ -19,8 +19,7 @@ body{
   }
 
 .brand-name ,.navbar-light .navbar-brand{
-      /* font-family: "Brush Script MT"; */
-      /* margin-bottom: 3px; */
+     
       font-family: "Lovely Home";
       font-size: 50px;
       font-weight: bold;
@@ -163,7 +162,7 @@ to {
 }
 to {
     width: 70%}
-}#Skill-Python {
+}#Skill-React {
     border-radius:20px;
     animation: Animate-Python 5s;
     -webkit-animation: Animate-Python 5s;
@@ -344,7 +343,7 @@ to {
 .Skill-Area {
     z-index: 1;
     float: left;
-    /* position: absolute; */
+    
     margin-top: 8px;
     margin-left: 15px;
     text-shadow: none;
